@@ -1,0 +1,8 @@
+body{width:90%;height:auto;background-color:rgb(68, 151, 228)}
+body button {background-color:rgb(68, 151, 228);border:0px}
+#tela{height:430px;width:430px;background-image: url("prato.jpg");background-color:rgb(119, 233, 66);border: 3px solid black;display:block;margin-left:auto;margin-right:auto;margin-top:40px}
+#inizio input {height:10%;width:10%;cursor:pointer;border: 0px; background-color:rgb(68, 151, 228);display:block;margin:auto}
+#movement input {height:80px;width:80px;cursor:pointer;background-color:rgb(68, 151, 228);border:0px;}
+#up{margin-top:50px;display:block;margin-left:auto;margin-right:auto}
+#downArrows {text-align: center;}
+#left {margin-left:auto}
